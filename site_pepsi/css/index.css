@@ -99,6 +99,10 @@ header li a{
     margin-top:50px;
     justify-content: flex-end;
 }
+
+.texto {
+    text-align: justify;
+}
 .content .imgBox img{
     max-width: 260px;
 }
